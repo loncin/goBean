@@ -1,0 +1,51 @@
+{
+    "params": [
+        {
+            "adultNumber": 1, 
+            "childNumber": 0, 
+            "fromCity": "SHA", 
+            "fromDate": "20180526",
+            "productType": 2, 
+            "retDate": "",
+            "toCity": "HKG", 
+            "tripType": "1",
+            "carrier": "",
+            "cabinGrade": ""
+        },
+        {
+            "adultNumber": 1, 
+            "childNumber": 0, 
+            "fromCity": "SHA", 
+            "fromDate": "20180526",
+            "productType": 2, 
+            "retDate": "",
+            "toCity": "HKG", 
+            "tripType": "1",
+            "carrier": "",
+            "cabinGrade": ""
+        },
+        {
+            "adultNumber": 1, 
+            "childNumber": 0, 
+            "fromCity": "SHA", 
+            "fromDate": "20180526",
+            "productType": 2, 
+            "retDate": "",
+            "toCity": "HKG", 
+            "tripType": "1",
+            "carrier": "",
+            "cabinGrade": ""
+        },{
+            "adultNumber": 1, 
+            "childNumber": 0, 
+            "fromCity": "SHA", 
+            "fromDate": "20180526",
+            "productType": 2, 
+            "retDate": "",
+            "toCity": "HKG", 
+            "tripType": "1",
+            "carrier": "",
+            "cabinGrade": ""
+        }
+    ]
+}

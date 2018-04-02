@@ -1,0 +1,12 @@
+{
+    "url" : "http://tcflightopenapi.qa.17usoft.com/flightdistributeapi/dispatcher/api",
+    "user" : {
+        "pid" : "dbceea59d2024cf7bfd22220e04f9ca2",
+        "securityCode" : "ff84853857884aa1"
+    },
+    "stress" : {
+        "stressRound" : 2,
+        "threadCount" : 3,
+        "reqCountPerThread" : 2
+    }
+}
