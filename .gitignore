@@ -1,0 +1,26 @@
+# IntelliJ
+*.ipr
+*.iml
+*.iws
+.idea/
+
+#
+# Eclipse metadata.
+#
+.mymetadata
+.project
+.classpath
+.settings/
+.myeclipse/
+
+#
+# Eclipse and Maven idea output folders.
+#
+bin/
+.vscode/
+target/
+out/
+*.class
+.svn/
+build/
+
