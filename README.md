@@ -1,0 +1,2 @@
+# goBean
+golang project
